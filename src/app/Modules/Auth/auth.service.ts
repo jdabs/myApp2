@@ -33,7 +33,6 @@ export class AuthService {
               console.log(response);
             });
 
-          console.log(reply);
         });
 
         //this.isAuthed=true;
@@ -58,7 +57,6 @@ export class AuthService {
               console.log(response);
             });
 
-          console.log(reply);
         });
 
         //this.isAuthed=true;
